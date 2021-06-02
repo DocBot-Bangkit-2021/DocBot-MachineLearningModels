@@ -1,0 +1,6 @@
+apple
+banana
+broccoli
+carrot
+orange
+tomato
