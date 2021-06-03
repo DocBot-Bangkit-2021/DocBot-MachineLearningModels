@@ -39,6 +39,12 @@ The development of the health sector in Indonesia is still not growing optimally
 
 Building three kinds of models that include covid detection, fruit and vegetable nutrition content, and general disease detection. Build process using *baseline experiment, early stopping, checkpoint*. Pre-trained model or transfer learning by *resnet152v2, densenet121, inceptionv3, mobilenetv2, vgg19*. The model was saved with *model.tflite* and chosen by the best model for deployment.
 
+**Case :**
+
+- [x] Covid19 Classification
+- [x] Skin and Eye Diseases Classification
+- [x] Fruits and Vegetable Classification
+
 **Dataset Link:**
 
 * Covid19 
@@ -86,13 +92,13 @@ Preview of the image and data used are shown in the picture below.
 - [x] VGG19
 - [x] TFLite x labels 
 
-# Prerequisites
+## Prerequisites
 1. Jupyter Notebook or Google Colab
 2. Kaggle API Token
 3. Python version 3.6 or above
 4. Latest version of Tensorflow 2
 
-# How to use
+## How to use
 1. [Create `kaggle.json` from Kaggle](https://github.com/Kaggle/kaggle-api#api-credentials)
 2. Go to your Kaggle profile then download your Kaggle API.
     - My Account --> Look for API section --> Create New API Token
@@ -103,7 +109,7 @@ Preview of the image and data used are shown in the picture below.
 7. If using GoogleDrive for the dataset, `GoogleAuth` click on the given link and sign in with your Google Account.
 8. Done :)
 
-# References
+## References
 * [http://bit.ly/papercapstone01](http://bit.ly/papercapstone01)
 * [http://bit.ly/papercapstone02](http://bit.ly/papercapstone02) 
 * [http://bit.ly/papercapstone03](http://bit.ly/papercapstone03) 
