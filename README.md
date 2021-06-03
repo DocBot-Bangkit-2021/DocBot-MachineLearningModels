@@ -31,6 +31,9 @@ DocBot
 # DocBot-ML
 This project is our final project for Google Bangkit Academy 2021.
 
+**Android:**
+[DocBotApp](https://github.com/DocBot-Bangkit-2021/DocBotApp)
+
 **Backgrounder:**
 
 The development of the health sector in Indonesia is still not growing optimally. Public submission of symptoms of disease requires early solutions in dealing with emerging diseases. As well as long-distance service in some areas is still very difficult. The government established an institution, namely Puskesmas, which is a health service facility. Public health problems, especially remote reports, recommendations for early treatment, and appropriate health programs for the community, are still lacking and not yet integrated. The strategy in the form of application development by utilizing deep learning aims to analyze the symptoms of the disease from the community in conducting classification based on disease diagnosis health test data. It is hoped that it can help people who need recommendations for first action against symptoms of disease and related health information, in addition to that expected from the data. which is received can be analyzed by the Puskesmas to design a health program.
