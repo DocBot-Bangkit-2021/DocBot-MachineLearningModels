@@ -96,7 +96,7 @@ Preview of the image and data used are shown in the picture below.
 1. [Create `kaggle.json` from Kaggle](https://github.com/Kaggle/kaggle-api#api-credentials)
 2. Go to your Kaggle profile then download your Kaggle API.
     - My Account --> Look for API section --> Create New API Token
-3. Open .ipynb with Google Colaboratory using "open in colab"
+3. Open `.ipynb` with Google Colaboratory using `open in colab`
 4. "Save a copy in Drive" to run and edit with your account. Click `File` > `Save a copy in Drive` in your Google Colaboratory.
 5. Upload your `kaggle.json` if asked to upload it.
 6. Will download the dataset on kaggle
@@ -104,11 +104,11 @@ Preview of the image and data used are shown in the picture below.
 8. Done :)
 
 # References
-[1] [http://bit.ly/papercapstone01](http://bit.ly/papercapstone01)
-[2] [http://bit.ly/papercapstone02](http://bit.ly/papercapstone02) 
-[3] [http://bit.ly/papercapstone03](http://bit.ly/papercapstone03) 
-[4] [http://bit.ly/papercapstone04](http://bit.ly/papercapstone04) 
-[5] [http://bit.ly/papercapstone05](http://bit.ly/papercapstone05) 
-[6] [http://bit.ly/papercapstone06](http://bit.ly/papercapstone06)
+* [http://bit.ly/papercapstone01](http://bit.ly/papercapstone01)
+* [http://bit.ly/papercapstone02](http://bit.ly/papercapstone02) 
+* [http://bit.ly/papercapstone03](http://bit.ly/papercapstone03) 
+* [http://bit.ly/papercapstone04](http://bit.ly/papercapstone04) 
+* [http://bit.ly/papercapstone05](http://bit.ly/papercapstone05) 
+* [http://bit.ly/papercapstone06](http://bit.ly/papercapstone06)
 
 ## Thank You :)
