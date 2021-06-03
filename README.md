@@ -4,26 +4,26 @@
 DocBot
 </h1>
 
-## Profile
-<h3>
-Team ID : B21-CAP0362
-<br>
-Members
-<br>
+# Profile
+
+### Team ID : B21-CAP0362
+
+### Members
+
 * M2082044 - Nur Imam Masri
 * M2242154 - Rafkah Rizqia
 * A0131304 - Dian Arisma Wicakso
 * A0141345 - I Made Ari Widiarsana
 * C2242155 - Nurul Uswatun Hasanah
-<br>
-Roles/personnel
-<br>
+
+### Roles/personnel
+
 * Project Plan (M2082044 - Nur Imam Masri)
 * UI/UX (C2242155 - Nurul Uswatun Hasanah, M2242154 - Rafkah Rizqia)
 * Build Machine Learning Model (M2082044 - Nur Imam Masri, M2242154 - Rafkah Rizqia)
 * Android Development (A0131304 - Dian Arisma Wicakso, A0141345 - I Made Ari Widiarsana)
 * Deployment Application (C2242155 - Nurul Uswatun Hasanah)
-</h3>
+
 
 [![GitHub stars](https://img.shields.io/github/stars/DocBot-Bangkit-2021/DocBot-MachineLearningModels)](https://github.com/DocBot-Bangkit-2021/DocBot-MachineLearningModels)
 [![GitHub forks](https://img.shields.io/github/forks/DocBot-Bangkit-2021/DocBot-MachineLearningModels)](https://github.com/DocBot-Bangkit-2021/DocBot-MachineLearningModels)
