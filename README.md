@@ -10,11 +10,11 @@ DocBot
 
 ### Members
 
-* M2082044 - Nur Imam Masri
-* M2242154 - Rafkah Rizqia
-* A0131304 - Dian Arisma Wicakso
-* A0141345 - I Made Ari Widiarsana
-* C2242155 - Nurul Uswatun Hasanah
+* M2082044 - [Nur Imam Masri](https://github.com/nurimammasri)
+* M2242154 - [Rafkah Rizqia](https://github.com/rafkahrizqia)
+* A0131304 - [Dian Arisma Wicakso](https://github.com/dianarisma86)
+* A0141345 - [I Made Ari Widiarsana](https://github.com/widiar)
+* C2242155 - [Nurul Uswatun Hasanah](https://github.com/nuruluswatun)
 
 ### Roles/personnel
 
