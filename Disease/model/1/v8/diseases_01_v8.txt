@@ -1,0 +1,4 @@
+cataracts
+conjunctivitis
+melanoma
+nail_fungus
