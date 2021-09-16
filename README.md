@@ -55,7 +55,7 @@ Building three kinds of models that include [covid detection](https://github.com
 
 * Covid19 
   * [Early stage symptoms of COVID-19 patient's](https://www.kaggle.com/martuza/early-stage-symptoms-of-covid19-patients)
-* Fruits and Vegetables  → Combined Dataset FruitsVegetables : [Github](https://github.com/DocBot-Bangkit-2021/DocBot-MachineLearningModels/tree/main/Disease/disease) | [Drive](https://drive.google.com/file/d/1ruaStccmRUdgpxlI5lD2LDWH9nxoc9VY/view?usp=sharing) | [Kaggle](https://www.kaggle.com/nurimammasri/fruitsvegetables)
+* Fruits and Vegetables  → Combined Dataset FruitsVegetables : [Github](https://github.com/DocBot-Bangkit-2021/DocBot-MachineLearningModels/tree/main/FruitsVegetables/datasets) | [Drive](https://drive.google.com/file/d/1ruaStccmRUdgpxlI5lD2LDWH9nxoc9VY/view?usp=sharing) | [Kaggle](https://www.kaggle.com/nurimammasri/fruitsvegetables)
   * Crapping Image on Google Search (Manually)
   * [Fruits-262](https://www.kaggle.com/aelchimminut/fruits262)
   * [Fresh and Stale Images of Fruits and Vegetables](https://www.kaggle.com/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables)
