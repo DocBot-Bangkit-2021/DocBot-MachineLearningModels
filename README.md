@@ -55,7 +55,7 @@ Building three kinds of models that include [covid detection](https://github.com
 
 * Covid19 
   * [Early stage symptoms of COVID-19 patient's](https://www.kaggle.com/martuza/early-stage-symptoms-of-covid19-patients)
-* Fruits and Vegetables  → Combined Dataset : [FruitsVegetables](https://drive.google.com/file/d/1ruaStccmRUdgpxlI5lD2LDWH9nxoc9VY/view?usp=sharing)
+* Fruits and Vegetables  → Combined Dataset FruitsVegetables : [Github](https://github.com/DocBot-Bangkit-2021/DocBot-MachineLearningModels/tree/main/Disease/disease) | [Drive](https://drive.google.com/file/d/1ruaStccmRUdgpxlI5lD2LDWH9nxoc9VY/view?usp=sharing) | [Kaggle](https://www.kaggle.com/nurimammasri/fruitsvegetables)
   * Crapping Image on Google Search (Manually)
   * [Fruits-262](https://www.kaggle.com/aelchimminut/fruits262)
   * [Fresh and Stale Images of Fruits and Vegetables](https://www.kaggle.com/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables)
@@ -64,7 +64,7 @@ Building three kinds of models that include [covid detection](https://github.com
   * [Fruits & Vegetables](https://www.kaggle.com/jorgebailon/fruits-vegetables)
   * [fruits_vegetables_photos](https://www.kaggle.com/balalexv/fruits-vegetables-photos)
 
-* Disease  → Combined Dataset : [Disease](https://drive.google.com/file/d/1ONPBCD-wRaZp8yY4EplIZImzrm3GYjnC/view?usp=sharing)
+* Disease  → Combined Dataset Disease : [Github](https://github.com/DocBot-Bangkit-2021/DocBot-MachineLearningModels/tree/main/Disease/disease) | [Drive](https://drive.google.com/file/d/1ONPBCD-wRaZp8yY4EplIZImzrm3GYjnC/view?usp=sharing) | [Kaggle](https://www.kaggle.com/nurimammasri/diseases) 
   * Crapping Image on Google Search (Manually)
   * [Dermnet](https://www.kaggle.com/shubhamgoel27/dermnet)
   * [Various Skin Diseases Dataset](https://www.kaggle.com/akshitmadan/various-skin-diseases-dataset)
@@ -82,6 +82,29 @@ Preview of the image and data used are shown in the picture below.
 <img align="center" src="/misc/img/fruits.png"></img>
 
 <p align="center">Fruits and Vegetables</p>
+
+## Open In Colab
+
+### Covid-19
+- [x] [Covid19_Baseline_Model_01.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/Covid-19/Covid19_Baseline_Model_01.ipynb)
+
+- [x] [Covid19_Baseline_Model_02.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/Covid-19/Covid19_Baseline_Model_02.ipynb)
+
+- [x] [Covid19_Baseline_Model_03.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/Covid-19/Covid19_Baseline_Model_03.ipynb)
+
+- [x] [Covid19_Baseline_Model_04.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/Covid-19/Covid19_Baseline_Model_04.ipynb)
+
+### Disease
+
+- [x] [Disease_Baseline_Model_01.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/Disease/Disease_Baseline_Model_01.ipynb)
+- [x] [Disease_Baseline_Model_02.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/Disease/Disease_Baseline_Model_02.ipynb)
+- [x] [Disease_Baseline_Model_03.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/Disease/Disease_Baseline_Model_03.ipynb)
+
+### FruitsVegetables
+
+- [x] [FruitsVegetables_Baseline_Model_01.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/FruitsVegetables/FruitsVegetables_Baseline_Model_01.ipynb)
+- [x] [FruitsVegetables_Baseline_Model_02.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/FruitsVegetables/FruitsVegetables_Baseline_Model_02.ipynb)
+- [x] [FruitsVegetables_Baseline_Model_03.ipynb](https://colab.research.google.com/github/DocBot-Bangkit-2021/DocBot-MachineLearningModels/blob/main/FruitsVegetables/FruitsVegetables_Baseline_Model_03.ipynb)
 
 ## Features
 
